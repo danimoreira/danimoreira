@@ -4,9 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimoreira&layout=compact)](https://github.com/danimoreira/github-readme-stats)-->
 
 ## Contacts
-<a href="mailto:dniel.moreira@gmail.com">
+<a href="mailto:dniel.moreira@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> <a href="https://www.linkedin.com/in/danielmoreiradeveloper/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+</a> <a href="https://www.linkedin.com/in/danielmoreiradeveloper/"  target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
 ## Professional Experience
