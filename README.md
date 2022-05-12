@@ -10,6 +10,9 @@
 
 
 ## Professional Experience
+
+<a href="https://github.com/danimoreira/all-projects-participated" > see all projects participated details </a>
+
 **Fácil Informática** (Senior Systems Analyst) \
 :calendar:  06/2020 - 05/2022
 
