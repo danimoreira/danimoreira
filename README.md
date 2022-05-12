@@ -10,16 +10,16 @@
 
 
 ## Professional Experience
-#### 💻 Fácil Informática - Senior Systems Analyst
-#### 💻 Grupo DNA (Chile) - Senior .net fullstack developer
-#### 💻 Ringa - Senior .net fullstack developer
-#### 💻 BHS - Senior .net fullstack developer
-#### 💻 Inova Tecnologia - Senior .net fullstack developer
-#### 💻 Squadra Tecnologia - Developer Analyst .Net
-#### 💻 attPs Informática - System Analyst / Operations supervisor
-#### 💻 Prime Systems - System Analyst
-#### 💻 attPs Informática - Systems Development Intern / System Analyst
-#### 💻 Toshiba S.A - Systems Development Intern
+#### Fácil Informática (Senior Systems Analyst)
+#### Grupo DNA (Chile) (Senior .Net Fullstack Developer)
+#### Ringa (Senior .Net Fullstack Developer)
+#### BHS (Senior .Net Fullstack Developer)
+#### Inova Tecnologia (Senior .Net Fullstack Developer)
+#### Squadra Tecnologia (Developer Analyst .Net)
+#### attPs Informática (System Analyst / Operations Supervisor)
+#### Prime Systems (System Analyst)
+#### attPs Informática (Systems Development Intern / System Analyst)
+#### Toshiba S.A (Systems Development Intern)
 
 ## SKILLS
 
