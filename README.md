@@ -3,6 +3,12 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimoreira&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimoreira&layout=compact)](https://github.com/danimoreira/github-readme-stats)-->
 
+## Contacts
+<a href="mailto:dniel.moreira@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> <a href="https://www.linkedin.com/in/danielmoreiradeveloper/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+
 ## Professional Experience
 #### 💻 Fácil Informática - Senior Systems Analyst
 #### 💻 Grupo DNA (Chile) - Senior .net fullstack developer
@@ -33,7 +39,4 @@
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
 
 
-## Contacts
-<a href="mailto:dniel.moreira@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> <a href="https://www.linkedin.com/in/danielmoreiradeveloper/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
