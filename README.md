@@ -13,7 +13,7 @@
 
 <a href="https://github.com/danimoreira/all-projects-participated" > see all projects participated details </a>
 
-**Totvs** (Specialist I Cloud Development) \
+**Totvs** (Specialist II Cloud Development) \
 :calendar:  05/2022 - Current
 
 **Fácil Informática** (Senior Systems Analyst) \
